@@ -24,6 +24,10 @@ struct lista{
 	int tamanho;
 };
 
+void func(){
+	
+}
+
 char *lerString(){
     char *string = NULL;
     char c;
